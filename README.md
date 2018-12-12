@@ -11,6 +11,9 @@ Dummy datasets are provided, see ./data/input/ .
 ## Quick start
 
 After installing R and RStudio (for version, see 'Software' bellow), clone the repository. <br />
+
+```git clone https://github.com/eregenyi/gut-virome-analysis.git```
+
 From the master script, all other scripts can be run swiftly and easily. <br />
 Keep in mind that some parts of the code may need to be taylored to the needs of your own dataset. 
 
@@ -73,6 +76,10 @@ This folder contains a .csv file for each sample. Such a file has 2 columns: the
 The scripts were written using: <br />
 R version 3.4.0 <br />
 RStudio Version 1.0.143
+
+## Contributing
+
+When contributing to the repository, please use the issues to discuss the changes you wish to make. All the contributions will be made under the [GPLv3 license](https://github.com/eregenyi/gut-virome-analysis/blob/master/LICENSE).
 
 ## License
 
