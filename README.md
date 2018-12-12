@@ -79,7 +79,7 @@ RStudio Version 1.0.143
 
 ## Contributing
 
-When contributing to the repository, please use the issues to discuss the changes you wish to make. All the contributions will be made under the [GPLv3 license](https://github.com/eregenyi/gut-virome-analysis/blob/master/LICENSE).
+When contributing to the repository, such as reporting a bug, submitting a fix or suggesting new features, please use the issues to discuss the changes you wish to make. Contributions are governed by our [Code of Conduct](https://github.com/eregenyi/gut-virome-analysis/blob/master/CODE_OF_CONDUCT.md), and will be made under the [GPLv3 license](https://github.com/eregenyi/gut-virome-analysis/blob/master/LICENSE). 
 
 ## License
 
