@@ -8,6 +8,8 @@ Dummy datasets are provided, see ./data/input/ .
 
 5-5 faecal samples of child A and child B were collected, and metadata was recorded along with them. These samples went through a viral enrichment lab protocol, and then their content was sequenced. The resulting NGS reads were assembled and passed through Blastn, Diamond, Virsorter and Metaphinder2. The Blastn and DIAMOND search results were further processed using KTClassifyBlast (KronaTools) to get the paths of the taxonomy. The reads were mapped back to the assembled contigs, to get the magnitudes. 
 
+This combination of tools is standardly used at the Laboratory of Viral Metagenomics at Rega Institute.
+
 ## Quick start
 
 After installing R and RStudio (for version, see 'Software' bellow), clone the repository. <br />
